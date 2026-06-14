@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Ganeshan Nagarajan  
 
-- 🔭 Currently building cool stuff at **Ford Motor Company** (via **TEKsystems**).  
+- 🔭 Currently building cool stuff at **Workday**.  
 - 🌱 Exploring **Google Cloud, Kubernetes, and AI-driven development**.  
 - 👯 Always up for **collaborating on Java, Spring Boot, and cloud-native projects**.  
 - 🤔 Trying to crack the code on **microservices optimization and cost-efficient cloud solutions**.  
